@@ -1,0 +1,19 @@
+.sc {
+    height: 100vh;
+}
+
+.container-main {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.h1-admin {
+    font-size: 130px !important;
+}
+
+.admin-box {
+    margin: 28px 0;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}

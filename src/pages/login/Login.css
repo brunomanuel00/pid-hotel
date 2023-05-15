@@ -1,0 +1,11 @@
+.login-box {
+    height: 100vh;
+    background-color: #f7f3f3;
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+}
+
+.h1-login {
+    font-size: 80px !important;
+}
